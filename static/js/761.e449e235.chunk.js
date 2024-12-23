@@ -9444,7 +9444,7 @@
               REACT_APP_DAPP_ENV: "mainnet",
               REACT_APP_BACKEND_API_URL: "https://backend.hourglass.money",
               REACT_APP_CACHE_HALF_FULL_URL:
-                "https://proxy-server-three-alpha.vercel.app/",
+                "https://mach-proxy.vercel.app/",
               REACT_APP_ANCHOR_PROVIDER_URL:
                 "https://lb.drpc.org/ogrpc?network=solana&dkey=AgF_0UZTDUumsL7emi5uzBP72BhiVOkR77Y7vmJKmvm9",
               REACT_APP_PRICE_API_URL: "https://tokens.machprotocol.com/v1",

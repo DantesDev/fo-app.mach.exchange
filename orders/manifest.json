@@ -3,7 +3,7 @@
   "name": "Hourglass Dapp",
   "icons": [
     {
-      "src": "machFavicon.png",
+      "src": "logo.svg",
       "sizes": "64x64",
       "type": "image/png"
     }
